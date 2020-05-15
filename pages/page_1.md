@@ -1,5 +1,8 @@
 ## page 1
 
+| [prev](#)          |  [home](../README.md) | [next](./page_2.md) |
+|--------------------|-----------------------|---------------------|
+
 ![img](../images/photo_1.jpg)
 
 | [prev](#)          |  [home](../README.md) | [next](./page_2.md) |
