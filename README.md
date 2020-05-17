@@ -11,4 +11,8 @@
 | [page 7](./pages/page_7.md)   | Bash Scripting, Conditional                          |
 | [page 8](./pages/page_8.md)   | Loops                                                |
 | [page 9](./pages/page_9.md)   | Functions                                            |
-| [page 10](./pages/page_10.md) | Files and Filesystems, Permissions and access rights |
+| [page 10](./pages/page_10.md) | Files and Filesystems, Permissions and Access Rights |
+| [page 10](./pages/page_11.md) | Using umask, Filesystems and VFS                     |
+| [page 10](./pages/page_12.md) | brfs, Mounting Filesystems                           |
+| [page 10](./pages/page_13.md) | RAID, LVM                                            |
+| [page 10](./pages/page_14.md) | Loopback Filesystems                                 |
