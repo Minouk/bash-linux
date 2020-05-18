@@ -1,4 +1,4 @@
-# Learning Bash
+# Learning Bash & Linux
 
 | TOC                          |  topics |
 |:-----------------------------|:--------|
