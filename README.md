@@ -16,5 +16,5 @@
 | [page 12](./pages/page_12.md) | brfs, Mounting Filesystems                           |
 | [page 13](./pages/page_13.md) | RAID, LVM                                            |
 | [page 14](./pages/page_14.md) | Loopback Filesystems                                 |
-| [page 14](./pages/page_15.md) | Compiling, Linking, Libraries, gcc, LLVM, intel      |
-| [page 14](./pages/page_16.md) | Stattic Libraries, Shared Libraries                  |
+| [page 15](./pages/page_15.md) | Compiling, Linking, Libraries, gcc, LLVM, intel      |
+| [page 16](./pages/page_16.md) | Stattic Libraries, Shared Libraries                  |
