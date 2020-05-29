@@ -1,8 +1,8 @@
 ## page 16
-| [prev](./page_15.md) |  [home](../README.md) | next |
+| [prev](./page_15.md) |  [home](../README.md) | [next](./page_17.md) |
 |----------------------|-----------------------|----------------------|
 
 ![img](../images/photo_16.jpg)
 
-| [prev](./page_15.md) |  [home](../README.md) | next |
+| [prev](./page_15.md) |  [home](../README.md) | [next](./page_17.md) |
 |----------------------|-----------------------|----------------------|
