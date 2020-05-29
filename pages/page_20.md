@@ -1,8 +1,8 @@
 ## page 20
-| [prev](./page_19.md) |  [home](../README.md) | next |
+| [prev](./page_19.md) |  [home](../README.md) | [next](./page_21.md) |
 |----------------------|-----------------------|----------------------|
 
 ![img](../images/photo_20.jpg)
 
-| [prev](./page_19.md) |  [home](../README.md) | next |
+| [prev](./page_19.md) |  [home](../README.md) | [next](./page_21.md) |
 |----------------------|-----------------------|----------------------|
