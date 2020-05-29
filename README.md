@@ -22,8 +22,8 @@
 | [page 18](./pages/page_18.md) | Linking to Libs, Stripping Executables, Debugging with gdb      |
 | [page 19](./pages/page_19.md) | Shared Libs(Lab), Java Installation and Environment, JRE, JDK   |
 | [page 20](./pages/page_20.md) | Environment Variables and `CLASSPATH`, IDE: Eclips and NetBeans |
-| [page 21](./pages/page_20.md) | Building RPM and Debian Packages, RPM Creation                  |
-| [page 22](./pages/page_20.md) | The RPM spec File, Details on RPM spec Sections                 |
-| [page 23](./pages/page_20.md) | Details on RPM spec Sections (cont.)                            |
-| [page 24](./pages/page_20.md) | RPM Dependencies, Debian Package Creation Workflow              |
-| [page 25](./pages/page_20.md) | Debian Package Creation Workflow (cont.)                        |
+| [page 21](./pages/page_21.md) | Building RPM and Debian Packages, RPM Creation                  |
+| [page 22](./pages/page_22.md) | The RPM spec File, Details on RPM spec Sections                 |
+| [page 23](./pages/page_23.md) | Details on RPM spec Sections (cont.)                            |
+| [page 24](./pages/page_24.md) | RPM Dependencies, Debian Package Creation Workflow              |
+| [page 25](./pages/page_25.md) | Debian Package Creation Workflow (cont.)                        |
