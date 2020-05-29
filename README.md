@@ -22,3 +22,8 @@
 | [page 18](./pages/page_18.md) | Linking to Libs, Stripping Executables, Debugging with gdb      |
 | [page 19](./pages/page_19.md) | Shared Libs(Lab), Java Installation and Environment, JRE, JDK   |
 | [page 20](./pages/page_20.md) | Environment Variables and `CLASSPATH`, IDE: Eclips and NetBeans |
+| [page 21](./pages/page_20.md) |   |
+| [page 22](./pages/page_20.md) |  |
+| [page 23](./pages/page_20.md) |  |
+| [page 24](./pages/page_20.md) |  |
+| [page 25](./pages/page_20.md) |  |
